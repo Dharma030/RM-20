@@ -1,0 +1,30 @@
+/* Add your custom CSS styles here */
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+p {
+    font-size: 16px;
+}
